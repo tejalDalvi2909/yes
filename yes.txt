@@ -1,0 +1,6 @@
+Seventh. Cc = congestion
+Star = star. Cc
+Second. Cc = bus 
+Third. Cc = flowmonitor
+Point to point = first. Cc
+Udp = udp. Cc
